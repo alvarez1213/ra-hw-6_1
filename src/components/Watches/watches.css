@@ -1,0 +1,7 @@
+.watches {
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+
+    margin: 0 35px;
+}
